@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "name": "Informatica",
+        "description": "8 horas. Con certificacion"
+
+    },
+    {
+        "id": 2,
+        "name": "BigData",
+        "description": "40 horas. Con certificacion"
+
+    },
+    {
+        "id": 3,
+        "name": "Analisis de datos",
+        "description": "25 horas. Sin certificacion"
+
+    },
+    {
+        "id": 4,
+        "name": "Reparacion de PC",
+        "description": "15 horas. Con certificacion"
+
+    },
+    {
+        "id": 5,
+        "name": "Marketing Digital",
+        "description": "20 horas. Sin certificacion"
+
+    }
+
+]
